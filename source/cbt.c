@@ -2,7 +2,7 @@
  * Complete Binary Tree Implementation
  *
  * Copyright (c) 2017 Brandon Bemister. All rights reserved.
- * https://github.com/
+ * https://github.com/bjbemister19/CPriorityQueue
  *
  * The MIT License (MIT)
  *
